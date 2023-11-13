@@ -1,5 +1,6 @@
 <h1 align="center">Hi there!</h1>
-<h3>I'm a 16-year-old self-taught NodeJS full-stack developer. I can create dynamic webpages with ReactJS and ExpressJS.</h3>
+
+### I'm a 16-year-old self-taught NodeJS full-stack developer. I can create dynamic webpages with ReactJS and ExpressJS.
 
 <h2 align="center">I have experience with:</h2>
 <p align="center">
