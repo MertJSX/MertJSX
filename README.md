@@ -1,7 +1,8 @@
-### Hi there 👋
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MertJSX&show_icons=true&theme=radical&hide=contribs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MertJSX&layout=compact)
-    <p align="center">
+<h1>Hi there!</h1>
+<h3>I'm a 16-year-old self-taught NodeJS full-stack developer. I can create dynamic webpages with ReactJS and ExpressJS.</h3>
+
+<h2 style="text-align: center;color: #3ae611;">I have experience with:</h2>
+<p align="center">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
         alt="html5"
@@ -27,14 +28,14 @@
         height="40"
       />
       <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+        src="https://github.com/MertJSX/MertJSX/assets/122701396/f9132784-1cbd-4cab-8182-484a91b9ea34"
         alt="express"
         style="background-color: white"
         width="40"
         height="40"
       />
       <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+        src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"
         alt="mongodb"
         width="40"
         height="40"
@@ -46,6 +47,9 @@
           height="40"
        />
     </p>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MertJSX&show_icons=true&theme=radical&hide=contribs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MertJSX&layout=compact)
 <!--
 **MertJSX/MertJSX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
