@@ -1,7 +1,7 @@
-<h1>Hi there!</h1>
+<h1 align="center">Hi there!</h1>
 <h3>I'm a 16-year-old self-taught NodeJS full-stack developer. I can create dynamic webpages with ReactJS and ExpressJS.</h3>
 
-<h2 style="text-align: center;color: #3ae611;">I have experience with:</h2>
+<h2 align="center">I have experience with:</h2>
 <p align="center">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
