@@ -5,19 +5,19 @@
 <h2 align="center">I have experience with:</h2>
 <p align="center">
       <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+        src="https://github.com/MertJSX/MertJSX/assets/122701396/70cc50c7-39ea-4947-8d79-6be41e03c263"
         alt="html5"
-        width="55"
-        height="55"
+        width="45"
+        height="45"
       />
       <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+        src="https://github.com/MertJSX/MertJSX/assets/122701396/2cfc1f2e-04bd-4400-9bc8-36fdef0db5db"
         alt="css3"
-        width="55"
-        height="55"
+        width="45"
+        height="45"
       />
       <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+        src="https://github.com/MertJSX/MertJSX/assets/122701396/4270c403-27bb-43bf-92d7-db88c76d3f08"
         alt="javascript"
         width="45"
         height="45"
