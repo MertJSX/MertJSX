@@ -61,8 +61,8 @@
       />
     </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MertJSX&show_icons=true&theme=radical&hide=contribs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MertJSX&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MertJSX&show_icons=true&theme=merko&hide=contribs&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MertJSX&layout=compact&theme=merko)
 <!--
 **MertJSX/MertJSX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
