@@ -4,24 +4,25 @@
 
 <h2 align="center">I have experience with:</h2>
 <p align="center">
+<a href="https://en.m.wikipedia.org/wiki/HTML">
       <img
         src="https://github.com/MertJSX/MertJSX/assets/122701396/70cc50c7-39ea-4947-8d79-6be41e03c263"
         alt="html5"
         width="45"
         height="45"
-      />
-      <img
+      /></a>
+      <a href="https://en.m.wikipedia.org/wiki/CSS"><img
         src="https://github.com/MertJSX/MertJSX/assets/122701396/2cfc1f2e-04bd-4400-9bc8-36fdef0db5db"
         alt="css3"
         width="45"
         height="45"
-      />
-      <img
+      /></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img
         src="https://github.com/MertJSX/MertJSX/assets/122701396/4270c403-27bb-43bf-92d7-db88c76d3f08"
         alt="javascript"
         width="45"
         height="45"
-      />
+      /></a>
       <img
         src="https://sass-lang.com/assets/img/styleguide/seal-color.png"
         alt="sass.css"
