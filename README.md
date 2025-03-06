@@ -29,37 +29,37 @@
         width="50"
         height="50"
       /></a>
-      <img
+      <a href="https://nodejs.org/en"><img
         src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"
         alt="nodejs"
         width="50"
         height="50"
-      />
-      <img
+      /></a>
+      <a href="https://expressjs.com/"><img
         src="https://github.com/MertJSX/MertJSX/assets/122701396/f9132784-1cbd-4cab-8182-484a91b9ea34"
         alt="express"
         style="background-color: white"
         width="50"
         height="50"
-      />
-      <img
+      /></a>
+      <a href="https://www.mongodb.com/"><img
         src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"
         alt="mongodb"
         width="50"
         height="50"
-      />
-      <img
+      /></a>
+      <a href="https://react.dev/"><img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
           alt="react"
           width="50"
           height="50"
-      />
-      <img
+      /></a>
+      <a href="https://en.m.wikipedia.org/wiki/C_(programming_language)"><img
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/380px-C_Programming_Language.svg.png?20201031132917"
         alt="c"
         width="50"
         height="50"
-      />
+      /></a>
     </p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MertJSX&show_icons=true&theme=gotham&hide=contribs&include_all_commits=true)
