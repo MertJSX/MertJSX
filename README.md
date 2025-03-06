@@ -23,12 +23,12 @@
         width="45"
         height="45"
       /></a>
-      <img
+      <a href="https://sass-lang.com/"><img
         src="https://sass-lang.com/assets/img/styleguide/seal-color.png"
         alt="sass.css"
         width="50"
         height="50"
-      />
+      /></a>
       <img
         src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"
         alt="nodejs"
