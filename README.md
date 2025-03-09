@@ -3,9 +3,8 @@
 ### I'm a 17-year-old self-taught NodeJS full-stack developer. I can create dynamic webpages with ReactJS and ExpressJS.
 
 <h2 align="center">I have experience with:</h2>
-<p align="center">
-<a href="https://en.m.wikipedia.org/wiki/HTML">
-      <img
+<div align="center">
+      <a href="https://en.m.wikipedia.org/wiki/HTML"><img
         src="https://github.com/MertJSX/MertJSX/assets/122701396/70cc50c7-39ea-4947-8d79-6be41e03c263"
         alt="html5"
         width="45"
@@ -18,7 +17,7 @@
         height="45"
       /></a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img
-        src="https://github.com/MertJSX/MertJSX/assets/122701396/4270c403-27bb-43bf-92d7-db88c76d3f08"
+        src="https://github.com/user-attachments/assets/dcf3e135-6411-44a3-a251-629e97461bd6"
         alt="javascript"
         width="45"
         height="45"
@@ -28,6 +27,12 @@
         alt="sass.css"
         width="50"
         height="50"
+      /></a>
+      <a href="https://tailwindcss.com/"><img
+        src="https://github.com/user-attachments/assets/a5fbf8c9-7947-45bd-9c86-6f0159a794cf"
+        alt="tailwind"
+        width="60"
+        height="40"
       /></a>
       <a href="https://nodejs.org/en"><img
         src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"
@@ -60,21 +65,41 @@
         width="50"
         height="50"
       /></a>
-    </p>
+      <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)#:~:text=C%23%20(%2F%CB%8Csi%CB%90%20%CB%88,C%23"><img
+        src="https://github.com/user-attachments/assets/88e5f9e6-c804-4e91-8905-e678d1c48e46"
+        alt="c#"
+        width="50"
+        height="50"
+      /></a>
+      <a href="https://www.typescriptlang.org/"><img
+        src="https://github.com/user-attachments/assets/bb822e31-26dd-406b-a22d-411003f0fdc6"
+        alt="typescript"
+        width="50"
+        height="50"
+      /></a>
+      <a href="https://www.python.org/"><img
+        src="https://github.com/user-attachments/assets/5a5fa324-98b8-4f99-a642-115ccd11f3dc"
+        alt="python"
+        width="50"
+        height="50"
+      /></a>
+      <a href="https://en.wikipedia.org/wiki/SQL"><img
+        src="https://github.com/user-attachments/assets/ada16e32-cfb3-40d9-97c6-c0697c028ec9"
+        alt="sql"
+        width="40"
+        height="50"
+      /></a>
+      <a href="https://en.wikipedia.org/wiki/Java_(programming_language)"><img
+        src="https://github.com/user-attachments/assets/18d96fde-789a-4994-b529-616e33999f1f"
+        alt="java"
+        width="50"
+        height="50"
+      /></a>
+</div>
 
+<div align="center">
+      
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MertJSX&show_icons=true&theme=gotham&hide=contribs&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MertJSX&layout=compact&theme=gotham)
-<!--
-**MertJSX/MertJSX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+      
+</div>
