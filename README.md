@@ -98,8 +98,8 @@
       <a href="https://go.dev/"><img
         src="https://github.com/user-attachments/assets/85cb833e-2128-415d-8af6-4ee9e926a606"
         alt="golang"
-        width="55"
-        height="55"
+        width="50"
+        height="50"
       /></a>
 </div>
 
