@@ -103,3 +103,17 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MertJSX&layout=compact&theme=gotham)
       
 </div>
+
+
+<h1 align="center">Contacts</h1>
+
+<p align="center">
+      Discord: mertjs.dev<br>
+      Email 1: contact@mertjs.dev<br>
+      Email 2: mertJSX@proton.me<br>
+</p>
+
+<p align="center"><a href="mailto:contact@mertjs.dev">
+      <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/18538ccb-7dc5-4ec6-984b-e0fa8dc8ca51" />
+</a></p>
+
