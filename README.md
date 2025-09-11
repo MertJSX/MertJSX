@@ -114,7 +114,7 @@
 <h1 align="center">Contacts</h1>
 
 <p align="center">
-      Discord: mertjs.dev<br>
+      Discord: mert.js<br>
       Email 1: contact@mertjs.dev<br>
       Email 2: mertJSX@proton.me<br>
 </p>
