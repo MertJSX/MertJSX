@@ -2,7 +2,7 @@
 
 ### I'm a 17-year-old self-taught NodeJS full-stack developer. I can create dynamic webpages with ReactJS and ExpressJS.
 
-<h2 align="center">I have experience with:</h2>
+<h1 align="center">Experience</h2>
 <div align="center">
       <a href="https://en.m.wikipedia.org/wiki/HTML"><img
         src="https://github.com/MertJSX/MertJSX/assets/122701396/70cc50c7-39ea-4947-8d79-6be41e03c263"
@@ -94,6 +94,12 @@
         alt="java"
         width="50"
         height="50"
+      /></a>
+      <a href="https://go.dev/"><img
+        src="https://github.com/user-attachments/assets/85cb833e-2128-415d-8af6-4ee9e926a606"
+        alt="golang"
+        width="55"
+        height="55"
       /></a>
 </div>
 
