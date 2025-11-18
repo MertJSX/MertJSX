@@ -51,7 +51,7 @@ The languages that I have experience with building backend applications are Node
         height="50"
       /></a>
       <a href="https://react.dev/"><img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+          src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"
           alt="react"
           width="50"
           height="50"
