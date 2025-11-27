@@ -109,7 +109,7 @@ The languages that I have experience with building backend applications are Node
 
 <div align="center">
       
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MertJSX&show_icons=true&theme=gotham&hide=contribs&include_all_commits=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MertJSX&show_icons=true&theme=gotham)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MertJSX&layout=compact&theme=gotham)
       
 </div>
