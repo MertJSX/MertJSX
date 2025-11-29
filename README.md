@@ -105,8 +105,8 @@
 
 <div align="center">
       
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MertJSX&show_icons=true&theme=gotham)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MertJSX&layout=compact&theme=gotham)
+![GitHub stats](https://github-readme-stats-theta-liard-94.vercel.app/api?username=MertJSX&show_icons=true&theme=gotham)
+![Top Langs](https://github-readme-stats-theta-liard-94.vercel.app/api/top-langs/?username=MertJSX&layout=compact&theme=gotham)
       
 </div>
 
