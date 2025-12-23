@@ -60,7 +60,7 @@
         height="50"
       /></a>
       <a href="https://en.m.wikipedia.org/wiki/C_(programming_language)"><img
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/380px-C_Programming_Language.svg.png?20201031132917"
+        src="https://github.com/user-attachments/assets/eaeca15d-0db4-48fe-a936-b4514402a122"
         alt="c"
         width="50"
         height="50"
