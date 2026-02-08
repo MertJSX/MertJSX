@@ -1,6 +1,6 @@
 <h1 align="center">Hi there!</h1>
 
-### I'm a 18-year-old self-taught full-stack developer.
+### I'm a 18-year-old self-taught full-stack web developer.
 
 <h1 align="center">Experience</h2>
 <div align="center">
