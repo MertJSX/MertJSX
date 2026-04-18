@@ -47,7 +47,7 @@
         height="50"
       /></a>
       <a href="https://react.dev/"><img
-          src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"
+          src="https://github.com/user-attachments/assets/ca4d26c1-ee6c-4947-8617-35d3180f13de"
           alt="react"
           width="50"
           height="50"
