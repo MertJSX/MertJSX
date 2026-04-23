@@ -3,105 +3,24 @@
 ### I'm a 18-year-old self-taught full-stack web developer.
 
 <h1 align="center">Experience</h2>
-<div align="center">
-      <a href="https://en.m.wikipedia.org/wiki/HTML"><img
-        src="https://github.com/MertJSX/MertJSX/assets/122701396/70cc50c7-39ea-4947-8d79-6be41e03c263"
-        alt="html5"
-        width="45"
-        height="45"
-      /></a>
-      <a href="https://en.m.wikipedia.org/wiki/CSS"><img
-        src="https://github.com/MertJSX/MertJSX/assets/122701396/2cfc1f2e-04bd-4400-9bc8-36fdef0db5db"
-        alt="css3"
-        width="45"
-        height="45"
-      /></a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img
-        src="https://github.com/user-attachments/assets/dcf3e135-6411-44a3-a251-629e97461bd6"
-        alt="javascript"
-        width="45"
-        height="45"
-      /></a>
-      <a href="https://sass-lang.com/"><img
-        src="https://sass-lang.com/assets/img/styleguide/seal-color.png"
-        alt="sass.css"
-        width="50"
-        height="50"
-      /></a>
-      <a href="https://tailwindcss.com/"><img
-        src="https://github.com/user-attachments/assets/a5fbf8c9-7947-45bd-9c86-6f0159a794cf"
-        alt="tailwind"
-        width="60"
-        height="40"
-      /></a>
-      <a href="https://www.mongodb.com/"><img
-        src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"
-        alt="mongodb"
-        width="50"
-        height="50"
-      /></a>
-      <a href="https://nodejs.org/en"><img
-        src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"
-        alt="nodejs"
-        width="50"
-        height="50"
-      /></a>
-      <a href="https://react.dev/"><img
-          src="https://github.com/user-attachments/assets/ca4d26c1-ee6c-4947-8617-35d3180f13de"
-          alt="react"
-          width="50"
-          height="50"
-      /></a>
-      <a href="https://expressjs.com/"><img
-        src="https://github.com/MertJSX/MertJSX/assets/122701396/f9132784-1cbd-4cab-8182-484a91b9ea34"
-        alt="express"
-        style="background-color: white"
-        width="50"
-        height="50"
-      /></a>
-      <a href="https://en.m.wikipedia.org/wiki/C_(programming_language)"><img
-        src="https://github.com/user-attachments/assets/eaeca15d-0db4-48fe-a936-b4514402a122"
-        alt="c"
-        width="50"
-        height="50"
-      /></a>
-      <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)#:~:text=C%23%20(%2F%CB%8Csi%CB%90%20%CB%88,C%23"><img
-        src="https://github.com/user-attachments/assets/88e5f9e6-c804-4e91-8905-e678d1c48e46"
-        alt="c#"
-        width="50"
-        height="50"
-      /></a>
-      <a href="https://www.typescriptlang.org/"><img
-        src="https://github.com/user-attachments/assets/bb822e31-26dd-406b-a22d-411003f0fdc6"
-        alt="typescript"
-        width="50"
-        height="50"
-      /></a>
-      <a href="https://www.python.org/"><img
-        src="https://github.com/user-attachments/assets/5a5fa324-98b8-4f99-a642-115ccd11f3dc"
-        alt="python"
-        width="50"
-        height="50"
-      /></a>
-      <a href="https://en.wikipedia.org/wiki/SQL"><img
-        src="https://github.com/user-attachments/assets/ada16e32-cfb3-40d9-97c6-c0697c028ec9"
-        alt="sql"
-        width="40"
-        height="50"
-      /></a>
-      <a href="https://en.wikipedia.org/wiki/Java_(programming_language)"><img
-        src="https://github.com/user-attachments/assets/18d96fde-789a-4994-b529-616e33999f1f"
-        alt="java"
-        width="50"
-        height="50"
-      /></a>
-      <a href="https://go.dev/"><img
-        src="https://github.com/user-attachments/assets/85cb833e-2128-415d-8af6-4ee9e926a606"
-        alt="golang"
-        width="50"
-        height="50"
-      /></a>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+</p>
 
 <div align="center">
       
